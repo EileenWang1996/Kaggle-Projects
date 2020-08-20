@@ -8,4 +8,4 @@ Project 2: UFO Data Exploratory Analysis.ipynb analyses a very interesting datas
 
 Project 3: Prediction_Airbnb_Prices consists of a Kaggle competition project that involved predicting the overnight price of Airbnb listing. 
 
-Project 4: Multi_Label_Prediction was a university assignment I did that involved solving a multi-label classification problem on image data with associated captions using transfer learning. 
+Project 4: Multi_Label_Prediction was a university deep learning assignment I did that involved solving a multi-label classification problem on image data with associated captions using transfer learning. 
