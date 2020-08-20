@@ -5,3 +5,5 @@ The repository contains my data analytics projects using data sets obtained from
 Project 1: Predicting Avocado Prices was a small project that aims to predict avocado prices using recurrent neural networks. 
 
 Project 2: UFO Data Exploratory Analysis.ipynb analyses a very interesting dataset containing over 80,000 reports of UFO sightings over the last century. 
+
+Project 3: Prediction_Airbnb_Prices consists of a Kaggle competition project that involved predicting the overnight price of Airbnb listing. 
